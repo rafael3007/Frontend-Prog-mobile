@@ -5,7 +5,6 @@ import styled from "styled-components";
 export const Texto = styled.Text`
   color: #fff;
   font-size: 20px;
-  font-weight: bolder;
 `;
 
 export const Container = styled.View`
